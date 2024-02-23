@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-## Hi I'm BSIT Student Learning Web Development | Aspiring Full-Stack Developer
+## Hi I'm BSIT Student Learning Web Development | Aspiring Cyber Security
 
 - 👨‍💻 I'm studying in Dominican Collge Of Tarlac learning Web Development
 - 📚 Learning everything about Frontend and Backend technologies 😅
